@@ -1,0 +1,13 @@
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.csprojAssemblyReference.cache
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.AssemblyInfoInputs.cache
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.AssemblyInfo.cs
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.csproj.CoreCompileInputs.cache
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.exe
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.deps.json
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.runtimeconfig.json
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.runtimeconfig.dev.json
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.dll
+C:\Users\Singhals\source\repos\CountCharactersApp2\bin\Debug\netcoreapp3.1\CountCharactersApp2.pdb
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.dll
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.pdb
+C:\Users\Singhals\source\repos\CountCharactersApp2\obj\Debug\netcoreapp3.1\CountCharactersApp2.genruntimeconfig.cache
